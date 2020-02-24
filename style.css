@@ -5,10 +5,28 @@
     padding: 20px 40px;
 }
 .buy-now-button{
-    color:#fff;
-    background-image: linear-gradient(to bottom,#FF589B 0%, #ff136f 100%);
-    border: none;
-    border-radius: 8px;
-    padding: 9px 25px;
-    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid;
 }
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.bag {
+    box-shadow: 5px 5px 10px;
+    border-radius: 0px 10px;
+  }
+  .style {
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px 0;
+  }
+  .shoe {
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px 0;
+  }
+  .row {
+    margin: 15px;
+    padding: 20px;
+  }
